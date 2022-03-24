@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello. Now I am changing this file, adding, commting and keeping it in local :)
+=======
+Changed file3.txt in remote also
+>>>>>>> d5554f2f9338ed16d13fb846163eff713da0bcf9
